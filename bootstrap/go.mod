@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/go-playground/validator/v10 v10.30.2
-	github.com/gofiber/contrib/v3/monitor v1.0.1
+	github.com/gofiber/contrib/v3/monitor v1.0.3
 	github.com/gofiber/fiber/v3 v3.1.0
 	github.com/gofiber/template/html/v3 v3.0.2
 	github.com/joho/godotenv v1.5.1
@@ -19,7 +19,7 @@ require (
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/gofiber/schema v1.7.0 // indirect
+	github.com/gofiber/schema v1.7.1 // indirect
 	github.com/gofiber/template/v2 v2.1.0 // indirect
 	github.com/gofiber/utils/v2 v2.0.3 // indirect
 	github.com/google/uuid v1.6.0 // indirect
